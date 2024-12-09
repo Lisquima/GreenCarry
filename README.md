@@ -1,5 +1,8 @@
 # GreenCarry
 Marca de Maletines, bolsos y billeteras ecologicas
+
+
+![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/Minimalist%20Logo%20.png?raw=true)
 # GreenCarry  
 **"Diseñado para ti, pensado para el planeta"**
 
