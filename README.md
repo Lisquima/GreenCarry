@@ -71,14 +71,16 @@ Representa a una mujer estudiante en transporte público, un autobús, llevando 
 
 ## 3. Redacción de Descripciones de Productos
 
-![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/Leonardo_Phoenix_A_stylish_ecofriendly_rolling_suitcase_by_Gre_2.jpg?raw=true)
+
 
 ### **Maleta de Viaje con Ruedas**
+![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/Leonardo_Phoenix_A_stylish_ecofriendly_rolling_suitcase_by_Gre_2.jpg?raw=true)
 Esta maleta de viaje con ruedas de la marca GreenCarry combina estilo moderno, funcionalidad y sostenibilidad. Con un acabado en verde menta, líneas minimalistas y detalles reforzados, destaca por su diseño elegante y casual. Su estructura incluye ruedas multidireccionales y un asa ergonómica retráctil que aseguran comodidad en el movimiento. Fabricada con materiales eco-amigables, es ideal para viajeros conscientes que buscan calidad, estética y compromiso ambiental en un solo producto.
 
 
-![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/Leonardo_Phoenix_realistic_depiction_of_a_modern_and_ecofrien_0.jpg?raw=true)
+
 ### **Maletín Urbano**
+![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/Leonardo_Phoenix_realistic_depiction_of_a_modern_and_ecofrien_0.jpg?raw=true)
 Este maletín de GreenCarry es una perfecta combinación de funcionalidad, estilo moderno y conciencia ecológica. Con un diseño elegante y casual, destaca por su cuerpo en tonos neutros contrastados con un sofisticado panel frontal en rojo terracota. Su estructura incluye detalles prácticos como una correa ajustable de tejido sostenible en tonos beige y un asa superior con acentos en amarillo para mayor comodidad y versatilidad. Ideal para el día a día o reuniones profesionales, este maletín refleja el compromiso de la marca con la moda responsable y el diseño contemporáneo.
 
 ## 4. Estrategia de Marketing Digital Inicial
