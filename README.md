@@ -94,3 +94,5 @@ Se publicará contenido tres veces por semana:
 - **Miércoles:** Mensajes inspiradores sobre sostenibilidad y estilo de vida consciente.
 - **Viernes:** Contenido dinámico, como videos, encuestas o historias interactivas.
 
+![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/image.png?raw=true)
+
