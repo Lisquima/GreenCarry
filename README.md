@@ -41,7 +41,7 @@ En el desarrollo del Reto I, observé cómo la IA puede reducir los tiempos de c
 ## 2. Sección de Contenido Visual para Redes Sociales
 
 ### **Viajero Urbano Sostenible**
-https://github.com/Lisquima/GreenCarry/blob/main/1.jpg?raw=true
+![Imagen Moda](https://github.com/Lisquima/GreenCarry/blob/main/1.jpg?raw=true)
 
 **Descripción:**  
 Un viajero moderno en un entorno urbano, llevando una maleta y un bolso de GreenCarry. El viajero está en una ciudad con edificios modernos y espacios verdes al fondo, lo que refuerza la idea de sostenibilidad y responsabilidad social. La maleta y el bolso tienen un diseño elegante y funcional, con materiales reciclados y detalles innovadores como paneles solares integrados para cargar dispositivos electrónicos. El viajero está utilizando una aplicación en su teléfono para planificar su viaje de manera eficiente, lo que subraya la innovación y la autenticidad de la marca.
